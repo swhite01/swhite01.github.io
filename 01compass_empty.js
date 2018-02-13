@@ -15,7 +15,7 @@ oriented = function(e) {
         }
 
         if(compassHeading > 45 && compassHeading < 135) {
-                text_area.textContent = "the mold to which I am poured"; 
+                text_area.textContent = "you are the mold to which I am poured"; 
         }
 
         if(compassHeading > 135 && compassHeading < 225) {
