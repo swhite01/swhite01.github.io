@@ -11,19 +11,19 @@ oriented = function(e) {
     //&&=and ||=or
 
         if(compassHeading > 315 || compassHeading < 45) {
-                text_area.textContent = "north"; 
+                text_area.textContent = "you are the head on my shoulders"; 
         }
 
         if(compassHeading > 45 && compassHeading < 135) {
-                text_area.textContent = "east"; 
+                text_area.textContent = "the mold to which I am poured"; 
         }
 
         if(compassHeading > 135 && compassHeading < 225) {
-                text_area.textContent = "south";
+                text_area.textContent = "you hold my hand and foster my complacency";
         }
 
         if(compassHeading > 225 && compassHeading < 315) {
-                text_area.textContent = "west";
+                text_area.textContent = "you grant forgiveness for a new and lost sense of identity";
         }
         
 
